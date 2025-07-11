@@ -1,0 +1,1 @@
+Pretendo realizar os LeetCodes durante todo meu percurso em desenvolvimento. Assim, neste repositorio incluirei desde codigos realizados durante meu primeiro semestre em computacao ate quando ja estiver no mercado de trabaho
